@@ -12,7 +12,7 @@ export default function App() {
       descricao: 'Mais um dia de muitos bugs :)', 
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png', 
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',  
-      likeada: true, 
+      liked: true, 
       likers: 1
      },
     {
@@ -21,7 +21,7 @@ export default function App() {
       descricao: 'Isso sim é ser raiz!!!!!', 
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png', 
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto2.png', 
-      likeada: false, 
+      liked: false, 
       likers: 0
     },
     {
@@ -30,7 +30,7 @@ export default function App() {
       descricao: 'Bora trabalhar, hoje estou começando em um projeto novo aqui no sujeito, desde o backend ao frontend', 
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil3.png', 
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto3.png',  
-      likeada: false, 
+      liked: true, 
       likers: 3
     },
     {
@@ -39,7 +39,7 @@ export default function App() {
       descricao: 'Isso sim que é TI!', 
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png', 
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto4.png', 
-      likeada: false, 
+      liked: false, 
       likers: 1
     },
     {
@@ -48,7 +48,7 @@ export default function App() {
       descricao: 'Boa tarde galera do insta...', 
       imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png', 
       imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto5.png',
-      likeada: false, 
+      liked: false, 
       likers: 32
     }
   ])
